@@ -1,0 +1,41 @@
+# Course Intake Manifest
+# Generated and maintained by engine/intake_scanner.py
+# Use this manifest to track ingested course assets across drop zones.
+
+metadata:
+  course_title: "Enter Course Title Here"
+  target_audience: "Undergraduate / Continuing Education / Vocational"
+  version: "1.0.0"
+  institution: "Department / University / Training Org"
+
+drop_zones:
+  raw_syllabi:
+    file_count: 0
+    total_bytes: 0
+    files: []
+
+  legacy_decks:
+    file_count: 0
+    total_bytes: 0
+    files: []
+
+  transcripts_and_notes:
+    file_count: 0
+    total_bytes: 0
+    files: []
+
+  reference_papers:
+    file_count: 0
+    total_bytes: 0
+    files: []
+
+  brainstorms:
+    file_count: 0
+    total_bytes: 0
+    files: []
+
+curriculum_extraction_targets:
+  estimated_units: 5
+  total_instructional_hours: 45
+  lab_format: "standard_library_python"
+  delivery_mode: "Hybrid / In-Person"
